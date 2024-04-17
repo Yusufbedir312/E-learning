@@ -214,7 +214,7 @@ color: #457B9D;
     left: 0px;
 
     height: 400px;
-    width: 1520px;
+    width: auto;
 
 
 
@@ -413,9 +413,9 @@ opacity: 1;
 }
 
 footer{
-    width: 1520px;
+width: auto;
 height: auto;
-color: whitesmoke;
+color: WhiteSmoke;
 
 
 background: #2EC4B6 0% 0% no-repeat padding-box;
@@ -424,7 +424,7 @@ opacity: 1;
 
 footer span a{
     text-decoration: none;
-    color: whitesmoke;
+    color: WhiteSmoke;
 }
 
 footer span a:hover{
@@ -433,7 +433,7 @@ footer span a:hover{
 }
 
 footer p{
-    color: whitesmoke;
+    color: WhiteSmoke;
     text-align: center;
     margin-top: 25px;
 }
